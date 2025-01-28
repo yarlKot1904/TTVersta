@@ -1,0 +1,6 @@
+@TTVersta.Server_HostAddress = http://localhost:5062
+
+GET {{TTVersta.Server_HostAddress}}/api/Orders/
+Accept: application/json
+
+###
